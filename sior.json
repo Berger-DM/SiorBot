@@ -1,0 +1,40 @@
+{
+    "guild_nm": "Exilados de S\u00ecor'Ua\u00edne",
+    "guild_id": 768507154557698098,
+    "Inicie Aqui, Aventureiro": {
+        "category_nm": "Inicie Aqui, Aventureiro",
+        "category_id": 768507154557698099,
+        "o-que-raios-\u00e9-isso": 768507154557698100,
+        "prel\u00fadio": 768531179782537276,
+        "pdfs-do-sistema": 768530906897842176,
+        "sistema-traduzido": 768556942452326430,
+        "resumo-sistema": 768677423893446666,
+        "criando-personagens": 768530732162744430,
+        "bases-de-opera\u00e7\u00e3o": 769242304359432192,
+        "das-aventuras": 769248100237574144,
+        "testes-de-bot": 770020978293080104,
+        "avisos": 770138212282531870
+    },
+    "Canais de voz": {
+        "category_nm": "Canais de voz",
+        "category_id": 768507154557698102
+    },
+    "Onde a A\u00e7\u00e3o Acontece!": {
+        "category_nm": "Onde a A\u00e7\u00e3o Acontece!",
+        "category_id": 768699186593660948,
+        "os-corajosos-aventureiros": 768723275315413002,
+        "cartografia": 768712392666120234,
+        "registros-das-aventuras": 768712473447628800,
+        "taverna-dos-desbravadores": 768546890433429594
+    },
+    "Nova S\u00ecor": {
+        "category_nm": "Nova S\u00ecor",
+        "category_id": 769235607573495868,
+        "aventureiros-na-base": 769253160907833385,
+        "recursos-de-nova-s\u00ecor": 769235533205340240,
+        "estruturas-de-nova-s\u00ecor": 769235887514320907,
+        "barganhas-nova-s\u00ecor": 770477078726312007,
+        "rumores": 769248279363321906,
+        "propostas-de-expedi\u00e7\u00e3o": 769256380472361002
+    }
+}
